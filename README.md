@@ -13,7 +13,7 @@
 🌐 Languages: Telugu, English, Hindi
 
 📫 Let's connect, collaborate, and grow together in cloud & data!
-www.linkedin.com/in/hrudaiakkati let's connect
+www.linkedin.com/in/hrudaiakkati | akkatihrudai@gmail.com
 
 ## 🌐 Socials:
 
