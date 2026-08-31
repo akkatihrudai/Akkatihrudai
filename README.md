@@ -1,35 +1,24 @@
-🎓 B.Tech | Computer Science Engineering (AI & ML) | SR University (2026)
+# 💫 About Me:
+🎓 B.Tech | Computer Science Engineering (AI & ML) | SR University (2026)<br><br>☁️ Cloud Engineer @ AtiSunya Microsoft Solution Provider | Azure & Cloud Computing<br><br>🚀 Passionate about building reliable, scalable cloud-based solutions using Azure, Python, and React.js.<br><br>🧠 Core Skills: SQL, Data Analytics, Analytical Problem-Solving<br><br>🏆 Certified: Microsoft Azure Fundamentals (AZ-900) | AWS Academy Cloud Foundations | Data Analytics Essentials<br><br>🔧 Tech Stack: Azure, Python, React.js, SQL<br><br>🌐 Languages: Telugu, English, Hindi<br><br>📫 Let's connect, collaborate, and grow together in cloud & data! www.linkedin.com/in/hrudaiakkati | akkatihrudai@gmail.com
 
-☁️ Cloud Engineer @ AtiSunya Microsoft Solution Provider | Azure & Cloud Computing
-
-🚀 Passionate about building reliable, scalable cloud-based solutions using Azure, Python, and React.js.
-
-🧠 Core Skills: SQL, Data Analytics, Analytical Problem-Solving
-
-🏆 Certified: Microsoft Azure Fundamentals (AZ-900) | AWS Academy Cloud Foundations | Data Analytics Essentials
-
-🔧 Tech Stack: Azure, Python, React.js, SQL
-
-🌐 Languages: Telugu, English, Hindi
-
-📫 Let's connect, collaborate, and grow together in cloud & data!
-www.linkedin.com/in/hrudaiakkati | akkatihrudai@gmail.com
 
 ## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrudaiakkati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=akkatihrudai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hrudaiakkati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akkatihrudai@gmail.com) 
 
 # 💻 Tech Stack:
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akkatihrudai&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=akkatihrudai&theme=calm_pink&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akkatihrudai&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=akkatihrudai&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akkatihrudai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://nirzak-streak-stats.vercel.app/?user=akkatihrudai&theme=merko&hide_border=false)<br/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkatihrudai&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://komarev.com/ghpvc/?username=akkatihrudai&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
