@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech | Computer Science Engineering (AI & ML) | SR University (2026)<br><br>☁️ Cloud Engineer @ AtiSunya Microsoft Solution Provider | Azure & Cloud Computing<br><br>🚀 Passionate about building reliable, scalable cloud-based solutions using Azure, Python, and React.js.<br><br>🧠 Core Skills: SQL, Data Analytics, Analytical Problem-Solving<br><br>🏆 Certified: Microsoft Azure Fundamentals (AZ-900) | AWS Academy Cloud Foundations | Data Analytics Essentials<br><br>🔧 Tech Stack: Azure, Python, React.js, SQL<br><br>🌐 Languages: Telugu, English, Hindi<br><br>📫 Let's connect, collaborate, and grow together in cloud & data! www.linkedin.com/in/hrudaiakkati | akkatihrudai@gmail.com
+🎓 B.Tech | Computer Science Engineering (AI & ML) | SR University (2026)<br><br>☁️ Cloud Engineer @ AtiSunya Microsoft Solution Provider | Azure & Cloud Computing<br><br>🚀 Passionate about building reliable, scalable cloud-based solutions using Azure, Python, and React.js.<br><br>🧠 Core Skills: SQL, Data Analytics, Analytical Problem-Solving<br><br>🏆 Certified: Microsoft Azure Fundamentals (AZ-900) | Data Analytics Essentials<br><br>🔧 Tech Stack: Azure, Python, React.js, SQL<br><br>🌐 Languages: Telugu, English, Hindi<br><br>📫 Let's connect, collaborate, and grow together in cloud & data! www.linkedin.com/in/hrudaiakkati | akkatihrudai@gmail.com
 
 
 ## 🌐 Socials:
